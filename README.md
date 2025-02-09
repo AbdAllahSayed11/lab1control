@@ -1,4 +1,4 @@
-#lab2 versionControl 
+#lab1 versionControl 
 
 git --version
 
