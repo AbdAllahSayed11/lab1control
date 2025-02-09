@@ -16,8 +16,8 @@ git status
 git add index.html
 git commit -m "first commet"
 git remote add origin	
-git@github.com:AbdAllahSayed11/lab1control.git
-git remote add origin git@github.com:AbdAllahSayed11/lab1control.git
+git@github.com:AbdAllahSayed11/versionControlLab1.git
+git remote add origin git@github.com:AbdAllahSayed11/versionControlLab1.git
  git remote add origin
  git commit -m "second commet"
  git push -u origin master
